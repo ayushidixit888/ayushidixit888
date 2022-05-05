@@ -7,7 +7,7 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
-    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/image.gif" width="40px" />
+    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif"width="40px" />
     
   </a>
 </h1>
