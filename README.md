@@ -7,7 +7,7 @@
   </a>
   HELLO, I AM AYUSHI DIXIT
   <a target="_blank">
-    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif"width="40px" />
+    <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif"width="50px" />
     
   </a>
 </h1>
