@@ -15,7 +15,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/image.gif">
+  <img align="right" height="250" width="500" alt="GIF" src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/image.gif">
 </a>
 
 - 🔭 I’m currently working on **Web Development**
