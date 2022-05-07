@@ -5,7 +5,7 @@
   <a target="_blank">
     <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/image.gif" width="24px" style="max-width:100%;">
   </a>
-  HELLO, I AM AYUSHI DIXIT
+  HEY, I AM AYUSHI DIXIT
   <a target="_blank">
     <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif"width="40px" />
     
