@@ -4,7 +4,7 @@
 <h1 align="center">
   <a target="_blank">
   
-  </a>HHHHHHH
+  </a>
  <br> HEY, I AM AYUSHI DIXIT<br>
   <a target="_blank">
     <img src="https://github.com/Angryl/GitHub-tutorials/blob/main/gif/Hi.gif"width="28px" />
