@@ -15,7 +15,7 @@
 <img src="https://github.com/kumaranand7/kumaranand7/blob/main/Cover2%20(1).JPEG?raw=truehttps://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 50%; height:50% " />
 </div> 
 <div align="center">
-<img src="https://github.com/kumaranand7/kumaranand7/blob/main/result%20(1).gif?raw=true" align="center" style="width: 50%; height:50% " />
+<img src="https://github.com/ayushidixit888/ayushidixit888/blob/main/hGiyrP83.gif?raw=true" align="center" style="width: 70%; height:50% " />
 </div> 
 <br/>
 
@@ -34,7 +34,7 @@
 
 ###   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> <i>About</i>
 
-- 👋 Hi, I’m Anand Kumar Gupta
+- 👋 Hi, I’m Ayushi Dixit
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C,C++ and JAVA Programming
 - 💞️Improving my programming skills with the help of graduation in MCA 
