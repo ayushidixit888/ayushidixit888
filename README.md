@@ -12,7 +12,7 @@
 </h1>
 	
 <div align="center">
-<img src="https://github.com/ayushidixit888/ayushidixit888/blob/main/aa.jpg?raw=true?raw=truehttps://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 50%; height:50% " />
+<img src="https://github.com/ayushidixit888/ayushidixit888/blob/main/coding1.webp?raw=true?raw=truehttps://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 50%; height:50% " />
 </div> 
 <div align="center">
 <img src="https://github.com/ayushidixit888/ayushidixit888/blob/main/hGiyrP83.gif?raw=true" align="center" style="width: 70%; height:50% " />
